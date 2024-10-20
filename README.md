@@ -1,6 +1,6 @@
 # DawnBot - Auto Download Extension Script
 
-This script automates the process of downloading the **Dawn Validator** Chrome extension and completing the registration process using your invite code.
+This script automates farming the **Dawn Validator** Chrome extension
 
 ## Extension Information
 
