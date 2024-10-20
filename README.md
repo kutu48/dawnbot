@@ -1,4 +1,4 @@
-# DawnBot - Auto Download Extension Script
+# DawnBot - Auto Farming
 
 This script automates farming the **Dawn Validator** Chrome extension
 
